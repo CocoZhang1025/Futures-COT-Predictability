@@ -1,1 +1,1 @@
-# 15.457-Futures-COT-Predictability
+# Futures-COT-Predictability
